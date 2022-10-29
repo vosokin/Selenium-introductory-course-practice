@@ -74,7 +74,4 @@ os.system(f'{short_url}_{email}_screenshot.png')
 print('Открываю файл скриншота.')
 
 print('Скрипт завершен') 
-print('=' * 100)
-    
-
-    
+print('=' * 100)    
